@@ -1,0 +1,13 @@
+streamlit
+crewai
+langchain
+langchain-community
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
+python-dotenv
+docx2txt
+groq
+faiss-cpu
+pydantic
