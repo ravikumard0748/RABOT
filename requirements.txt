@@ -11,3 +11,4 @@ docx2txt
 groq
 faiss-cpu
 pydantic
+langchain_groq
